@@ -76,7 +76,7 @@
 
 ```bash
 git clone git@github.com:Loke-60000/docker-create.git
-cd docker_gen_cli
+cd docker-create
 ```
 
 ### Make the Script Executable
